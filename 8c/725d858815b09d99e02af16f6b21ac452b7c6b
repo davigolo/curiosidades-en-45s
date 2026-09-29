@@ -1,0 +1,23 @@
+index.html
+  s_d65a76bcd9d53f::t_64856a0793e8b1 4,6
+privacy.html
+  s_d65a76bcd9d53f::t_2568866d73a1fc 4,7,9,16-17,22-38
+terms.html
+  s_d65a76bcd9d53f::t_d6aa9e3a7a7dfa 4,8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "8c725d858815b09d99e02af16f6b21ac452b7c6b",
+  "prompts": {},
+  "sessions": {
+    "s_d65a76bcd9d53f": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "f40c3fb2-a056-42a5-8be3-6486609bfaf3",
+        "model": "unknown"
+      },
+      "human_author": "david <davidglom@ext.inditex.com>"
+    }
+  }
+}
