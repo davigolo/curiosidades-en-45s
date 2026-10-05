@@ -1,0 +1,19 @@
+tiktokCg62zZvQdV3sWJuY2DZSd4HzsOHnP5dq.txt
+  s_04869bb8859425::t_f333dce77b255c 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6381050faa75de9201e4c0906ed0c5cce14b34b5",
+  "prompts": {},
+  "sessions": {
+    "s_04869bb8859425": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "31f7c450-cc83-4fad-b2ee-db3643e8154a",
+        "model": "unknown"
+      },
+      "human_author": "david <davidglom@ext.inditex.com>"
+    }
+  }
+}
