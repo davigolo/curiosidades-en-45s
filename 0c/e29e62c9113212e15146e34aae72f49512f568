@@ -1,0 +1,25 @@
+index.html
+  s_04869bb8859425::t_3258761a24703e 7,9-10
+privacy.html
+  s_04869bb8859425::t_1951dfc726088f 8-9,19-22,26,33-34,44-47,51
+terms.html
+  s_04869bb8859425::t_42fd066a209aea 7-9
+tiktok-callback.html
+  s_04869bb8859425::t_668808ced5b965 1-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0ce29e62c9113212e15146e34aae72f49512f568",
+  "prompts": {},
+  "sessions": {
+    "s_04869bb8859425": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "31f7c450-cc83-4fad-b2ee-db3643e8154a",
+        "model": "unknown"
+      },
+      "human_author": "david <davidglom@ext.inditex.com>"
+    }
+  }
+}
