@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="es">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Autorización de TikTok · Curiosidades en 45 segundos</title><link rel="stylesheet" href="style.css"></head>
+<body><main>
+<h1>Autorización de TikTok</h1>
+<p id="status">Procesando…</p>
+<p>Copia la URL completa de esta página y pégala en el script <code>get_tiktok_token.py</code>.</p>
+<footer><a href="index.html">Inicio</a> · <a href="privacy.html">Política de privacidad</a> · <a href="terms.html">Condiciones del servicio</a></footer>
+</main>
+<script>
+const params = new URLSearchParams(location.search);
+document.getElementById('status').textContent = params.get('code')
+  ? 'Autorización concedida.'
+  : 'No se recibió código: ' + (params.get('error_description') || params.get('error') || 'desconocido');
+</script>
+</body></html>
